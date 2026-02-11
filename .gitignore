@@ -1,0 +1,26 @@
+# --- Java 관련 ---
+*.class
+*.jar
+*.war
+*.ear
+
+# --- VS Code 관련 ---
+.vscode/
+*.code-workspace
+
+# --- CPH (Competitive Programming Helper) 관련 ---
+.cph/
+**/.cph/
+
+# --- OS 및 시스템 관련 ---
+.DS_Store
+Thumbs.db
+
+# --- 빌드 도구 ---
+bin/
+build/
+target/
+.gradle/
+.settings/
+.project
+.classpath
