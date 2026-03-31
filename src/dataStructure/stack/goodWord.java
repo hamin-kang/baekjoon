@@ -3,7 +3,7 @@ package dataStructure.stack;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class goodWord {
+public class GoodWord {
     // 좋은 단어, http://acmicpc.net/problem/3986
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

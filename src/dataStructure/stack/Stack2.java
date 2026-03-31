@@ -1,10 +1,13 @@
+package dataStructure.stack;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Stack2 {
+    // 스택 2, https://www.acmicpc.net/problem/28278
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         ArrayDeque<Integer> stack = new ArrayDeque<>();
