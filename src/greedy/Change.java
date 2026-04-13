@@ -1,6 +1,9 @@
+package greedy;
+
 import java.util.Scanner;
 
-public class Main {
+public class Change {
+    // 거스름돈, https://www.acmicpc.net/problem/5585
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int pay = sc.nextInt();
