@@ -1,6 +1,9 @@
+package greedy;
+
 import java.util.Scanner;
 
-public class Main {
+public class DonghyukLaundry {
+    // 세탁소 사장 동혁, https://www.acmicpc.net/problem/2720
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
